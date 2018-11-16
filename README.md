@@ -4,3 +4,5 @@ github education
 sprawdzic poczte
 
 https://github.com/jlevy/the-art-of-command-line
+
+https://exercism.io/tracks/c
