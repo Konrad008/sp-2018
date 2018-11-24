@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     int x, i, wynik = 1;
@@ -11,4 +12,6 @@ int main() {
     }
     
     printf("Silnia wynosi: %d\n", wynik);
+
+    exit(0);
 }
