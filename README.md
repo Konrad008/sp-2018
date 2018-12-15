@@ -1,5 +1,4 @@
-# spro2018
+# sp2018
 
-do zrobienia https://github.com/emilybache/GildedRose-Refactoring-Kata
+do zrobienia jedno zadanie z https://adventofcode.com/
 
-na nastepnych zajeciach bedziemy przerabiac ELEMENTARZ2
