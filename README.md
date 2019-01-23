@@ -1,3 +1,5 @@
-# spro2018
+# sp-2018
 
-Kazde zajecia tak samo jak zadania z adventOfCode znajduja sie na osobnych ficzer branczach.
+AoC 2018
+
+Zadanie 4
