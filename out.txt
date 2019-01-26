@@ -1,0 +1,821 @@
+String BX
+String BXHP
+String BXHPYJ
+String BXHPYJZI
+String BXHPYJZITU
+String BXHPYJZITURC
+String BXHPYJZITURCS
+String BXHPYJZITURCSW
+String BXHPYJZITURCSWL
+String BXHPYJZITURCSWLF
+String BXHPYJZITURCSWLFEG
+String BXHPYJZITURCSWLFEGA
+String BXHPYJZITURCSWLFEGAV
+String BXHPYJZITURCSWLFEGAVO
+String BXHPYJZITURCSWLFEGAVO
+String BXHPYJZITURCSWLFEGAVO
+String BXHPYJZITURCSWLFEGAVO
+String BXHPYJZITURCSWLFEGAVOK
+String BXHPYJZITURCSWLFEGAVOK
+String BXHPYJZITURCSWLFEGAVOK
+String BXHPYJZITURCSWLFEGAVOKM
+String BXHPYJZITURCSWLFEGAVOKMQ
+String BXHPYJZITURCSWLFEGAVOKMQN
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+String BXHPYJZITURCSWLFEGAVOKMQND
+Comparing B and X
+Comparing B and H
+Comparing B and P
+Comparing B and Y
+Comparing B and J
+Comparing B and Z
+Comparing B and I
+Comparing B and T
+Comparing B and U
+Comparing B and R
+Comparing B and C
+Comparing B and S
+Comparing B and W
+Comparing B and L
+Comparing B and F
+Comparing B and E
+Comparing B and G
+Comparing B and A
+Can swap B and A: yes
+A before B -> AXHPYJZITURCSWLFEGBVOKMQND
+Comparing A and V
+Comparing A and O
+Comparing A and K
+Comparing A and M
+Comparing A and Q
+Comparing A and N
+Comparing A and D
+Comparing X and H
+Can swap X and H: yes
+H before X -> AHXPYJZITURCSWLFEGBVOKMQND
+Comparing H and P
+Comparing H and Y
+Comparing H and J
+Comparing H and Z
+Comparing H and I
+Comparing H and T
+Comparing H and U
+Comparing H and R
+Comparing H and C
+Can swap H and C: yes
+C before H -> ACXPYJZITURHSWLFEGBVOKMQND
+Comparing C and S
+Comparing C and W
+W before C -> AWXPYJZITURHSCLFEGBVOKMQND
+Comparing W and L
+Can swap W and L: no
+Comparing W and F
+Can swap W and F: yes
+F before W -> AFXPYJZITURHSCLWEGBVOKMQND
+Comparing F and E
+Can swap F and E: yes
+E before F -> AEXPYJZITURHSCLWFGBVOKMQND
+Comparing E and G
+Comparing E and B
+Can swap E and B: yes
+B before E -> ABXPYJZITURHSCLWFGEVOKMQND
+Comparing B and V
+Comparing B and O
+Comparing B and K
+Comparing B and M
+Comparing B and Q
+Comparing B and N
+Comparing B and D
+Comparing X and P
+Can swap X and P: yes
+P before X -> ABPXYJZITURHSCLWFGEVOKMQND
+Comparing P and Y
+Comparing P and J
+Can swap P and J: no
+Comparing P and Z
+Comparing P and I
+Can swap P and I: no
+Comparing P and T
+T before P -> ABTXYJZIPURHSCLWFGEVOKMQND
+Comparing T and U
+Comparing T and R
+Can swap T and R: yes
+R before T -> ABRXYJZIPUTHSCLWFGEVOKMQND
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABHXYJZIPUTRSCLWFGEVOKMQND
+Comparing H and S
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABCXYJZIPUTRSHLWFGEVOKMQND
+Comparing C and L
+Comparing C and W
+W before C -> ABWXYJZIPUTRSHLCFGEVOKMQND
+Comparing W and F
+Can swap W and F: yes
+F before W -> ABFXYJZIPUTRSHLCWGEVOKMQND
+Comparing F and G
+Comparing F and E
+Can swap F and E: yes
+E before F -> ABEXYJZIPUTRSHLCWGFVOKMQND
+Comparing E and V
+Comparing E and O
+Comparing E and K
+Comparing E and M
+Comparing E and Q
+Comparing E and N
+Comparing E and D
+Can swap E and D: no
+Comparing X and Y
+Comparing X and J
+J before X -> ABEJYXZIPUTRSHLCWGFVOKMQND
+Comparing J and Z
+Comparing J and I
+I before J -> ABEIYXZJPUTRSHLCWGFVOKMQND
+Comparing I and P
+P before I -> ABEPYXZJIUTRSHLCWGFVOKMQND
+Comparing P and U
+Comparing P and T
+T before P -> ABETYXZJIUPRSHLCWGFVOKMQND
+Comparing T and R
+Can swap T and R: yes
+R before T -> ABERYXZJIUPTSHLCWGFVOKMQND
+Comparing R and S
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEHYXZJIUPTSRLCWGFVOKMQND
+Comparing H and L
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABECYXZJIUPTSRLHWGFVOKMQND
+Comparing C and W
+W before C -> ABEWYXZJIUPTSRLHCGFVOKMQND
+Comparing W and G
+Can swap W and G: yes
+G before W -> ABEGYXZJIUPTSRLHCWFVOKMQND
+Comparing G and F
+Can swap G and F: yes
+F before G -> ABEFYXZJIUPTSRLHCWGVOKMQND
+Comparing F and V
+Comparing F and O
+Comparing F and K
+K before F -> ABEKYXZJIUPTSRLHCWGVOFMQND
+Comparing K and M
+Comparing K and Q
+Comparing K and N
+Comparing K and D
+Can swap K and D: yes
+D before K -> ABEDYXZJIUPTSRLHCWGVOFMQNK
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDXYZJIUPTSRLHCWGVOFMQNK
+Comparing X and Z
+Comparing X and J
+J before X -> ABEDJYZXIUPTSRLHCWGVOFMQNK
+Comparing J and I
+I before J -> ABEDIYZXJUPTSRLHCWGVOFMQNK
+Comparing I and U
+U before I -> ABEDUYZXJIPTSRLHCWGVOFMQNK
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDPYZXJIUTSRLHCWGVOFMQNK
+Comparing P and T
+T before P -> ABEDTYZXJIUPSRLHCWGVOFMQNK
+Comparing T and S
+Can swap T and S: yes
+S before T -> ABEDSYZXJIUPTRLHCWGVOFMQNK
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDRYZXJIUPTSLHCWGVOFMQNK
+Comparing R and L
+Can swap R and L: no
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDHYZXJIUPTSLRCWGVOFMQNK
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDCYZXJIUPTSLRHWGVOFMQNK
+Comparing C and W
+W before C -> ABEDWYZXJIUPTSLRHCGVOFMQNK
+Comparing W and G
+Can swap W and G: yes
+G before W -> ABEDGYZXJIUPTSLRHCWVOFMQNK
+Comparing G and V
+Comparing G and O
+Comparing G and F
+Can swap G and F: yes
+F before G -> ABEDFYZXJIUPTSLRHCWVOGMQNK
+Comparing F and M
+M before F -> ABEDMYZXJIUPTSLRHCWVOGFQNK
+Comparing M and Q
+Comparing M and N
+Comparing M and K
+Can swap M and K: yes
+K before M -> ABEDKYZXJIUPTSLRHCWVOGFQNM
+Comparing Y and Z
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKXZYJIUPTSLRHCWVOGFQNM
+Comparing X and J
+J before X -> ABEDKJZYXIUPTSLRHCWVOGFQNM
+Comparing J and I
+I before J -> ABEDKIZYXJUPTSLRHCWVOGFQNM
+Comparing I and U
+U before I -> ABEDKUZYXJIPTSLRHCWVOGFQNM
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKPZYXJIUTSLRHCWVOGFQNM
+Comparing P and T
+T before P -> ABEDKTZYXJIUPSLRHCWVOGFQNM
+Comparing T and S
+Can swap T and S: yes
+S before T -> ABEDKSZYXJIUPTLRHCWVOGFQNM
+Comparing S and L
+Can swap S and L: no
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKRZYXJIUPTLSHCWVOGFQNM
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKHZYXJIUPTLSRCWVOGFQNM
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKCZYXJIUPTLSRHWVOGFQNM
+Comparing C and W
+W before C -> ABEDKWZYXJIUPTLSRHCVOGFQNM
+Comparing W and V
+Can swap W and V: yes
+V before W -> ABEDKVZYXJIUPTLSRHCWOGFQNM
+Comparing V and O
+Can swap V and O: yes
+O before V -> ABEDKOZYXJIUPTLSRHCWVGFQNM
+Comparing O and G
+Can swap O and G: yes
+G before O -> ABEDKGZYXJIUPTLSRHCWVOFQNM
+Comparing G and F
+Can swap G and F: yes
+F before G -> ABEDKFZYXJIUPTLSRHCWVOGQNM
+Comparing F and Q
+Comparing F and N
+Comparing F and M
+M before F -> ABEDKMZYXJIUPTLSRHCWVOGQNF
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMYZXJIUPTLSRHCWVOGQNF
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMXZYJIUPTLSRHCWVOGQNF
+Comparing X and J
+J before X -> ABEDKMJZYXIUPTLSRHCWVOGQNF
+Comparing J and I
+I before J -> ABEDKMIZYXJUPTLSRHCWVOGQNF
+Comparing I and U
+U before I -> ABEDKMUZYXJIPTLSRHCWVOGQNF
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMPZYXJIUTLSRHCWVOGQNF
+Comparing P and T
+T before P -> ABEDKMTZYXJIUPLSRHCWVOGQNF
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMLZYXJIUPTSRHCWVOGQNF
+Comparing L and S
+S before L -> ABEDKMSZYXJIUPTLRHCWVOGQNF
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMRZYXJIUPTLSHCWVOGQNF
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMHZYXJIUPTLSRCWVOGQNF
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMCZYXJIUPTLSRHWVOGQNF
+Comparing C and W
+W before C -> ABEDKMWZYXJIUPTLSRHCVOGQNF
+Comparing W and V
+Can swap W and V: yes
+V before W -> ABEDKMVZYXJIUPTLSRHCWOGQNF
+Comparing V and O
+Can swap V and O: yes
+O before V -> ABEDKMOZYXJIUPTLSRHCWVGQNF
+Comparing O and G
+Can swap O and G: yes
+G before O -> ABEDKMGZYXJIUPTLSRHCWVOQNF
+Comparing G and Q
+Comparing G and N
+Comparing G and F
+Can swap G and F: yes
+F before G -> ABEDKMFZYXJIUPTLSRHCWVOQNG
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFYZXJIUPTLSRHCWVOQNG
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFXZYJIUPTLSRHCWVOQNG
+Comparing X and J
+J before X -> ABEDKMFJZYXIUPTLSRHCWVOQNG
+Comparing J and I
+I before J -> ABEDKMFIZYXJUPTLSRHCWVOQNG
+Comparing I and U
+U before I -> ABEDKMFUZYXJIPTLSRHCWVOQNG
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFPZYXJIUTLSRHCWVOQNG
+Comparing P and T
+T before P -> ABEDKMFTZYXJIUPLSRHCWVOQNG
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFLZYXJIUPTSRHCWVOQNG
+Comparing L and S
+S before L -> ABEDKMFSZYXJIUPTLRHCWVOQNG
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFRZYXJIUPTLSHCWVOQNG
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFHZYXJIUPTLSRCWVOQNG
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFCZYXJIUPTLSRHWVOQNG
+Comparing C and W
+W before C -> ABEDKMFWZYXJIUPTLSRHCVOQNG
+Comparing W and V
+Can swap W and V: yes
+V before W -> ABEDKMFVZYXJIUPTLSRHCWOQNG
+Comparing V and O
+Can swap V and O: yes
+O before V -> ABEDKMFOZYXJIUPTLSRHCWVQNG
+Comparing O and Q
+Comparing O and N
+Can swap O and N: yes
+N before O -> ABEDKMFNZYXJIUPTLSRHCWVQOG
+Comparing N and G
+G before N -> ABEDKMFGZYXJIUPTLSRHCWVQON
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGYZXJIUPTLSRHCWVQON
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGXZYJIUPTLSRHCWVQON
+Comparing X and J
+J before X -> ABEDKMFGJZYXIUPTLSRHCWVQON
+Comparing J and I
+I before J -> ABEDKMFGIZYXJUPTLSRHCWVQON
+Comparing I and U
+U before I -> ABEDKMFGUZYXJIPTLSRHCWVQON
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGPZYXJIUTLSRHCWVQON
+Comparing P and T
+T before P -> ABEDKMFGTZYXJIUPLSRHCWVQON
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGLZYXJIUPTSRHCWVQON
+Comparing L and S
+S before L -> ABEDKMFGSZYXJIUPTLRHCWVQON
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGRZYXJIUPTLSHCWVQON
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGHZYXJIUPTLSRCWVQON
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFGCZYXJIUPTLSRHWVQON
+Comparing C and W
+W before C -> ABEDKMFGWZYXJIUPTLSRHCVQON
+Comparing W and V
+Can swap W and V: yes
+V before W -> ABEDKMFGVZYXJIUPTLSRHCWQON
+Comparing V and Q
+Can swap V and Q: no
+Comparing V and O
+Can swap V and O: yes
+O before V -> ABEDKMFGOZYXJIUPTLSRHCWQVN
+Comparing O and N
+Can swap O and N: yes
+N before O -> ABEDKMFGNZYXJIUPTLSRHCWQVO
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNYZXJIUPTLSRHCWQVO
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNXZYJIUPTLSRHCWQVO
+Comparing X and J
+J before X -> ABEDKMFGNJZYXIUPTLSRHCWQVO
+Comparing J and I
+I before J -> ABEDKMFGNIZYXJUPTLSRHCWQVO
+Comparing I and U
+U before I -> ABEDKMFGNUZYXJIPTLSRHCWQVO
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNPZYXJIUTLSRHCWQVO
+Comparing P and T
+T before P -> ABEDKMFGNTZYXJIUPLSRHCWQVO
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNLZYXJIUPTSRHCWQVO
+Comparing L and S
+S before L -> ABEDKMFGNSZYXJIUPTLRHCWQVO
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNRZYXJIUPTLSHCWQVO
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGNHZYXJIUPTLSRCWQVO
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFGNCZYXJIUPTLSRHWQVO
+Comparing C and W
+W before C -> ABEDKMFGNWZYXJIUPTLSRHCQVO
+Comparing W and Q
+Can swap W and Q: yes
+Q before W -> ABEDKMFGNQZYXJIUPTLSRHCWVO
+Comparing Q and V
+V before Q -> ABEDKMFGNVZYXJIUPTLSRHCWQO
+Comparing V and O
+Can swap V and O: yes
+O before V -> ABEDKMFGNOZYXJIUPTLSRHCWQV
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOYZXJIUPTLSRHCWQV
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOXZYJIUPTLSRHCWQV
+Comparing X and J
+J before X -> ABEDKMFGNOJZYXIUPTLSRHCWQV
+Comparing J and I
+I before J -> ABEDKMFGNOIZYXJUPTLSRHCWQV
+Comparing I and U
+U before I -> ABEDKMFGNOUZYXJIPTLSRHCWQV
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOPZYXJIUTLSRHCWQV
+Comparing P and T
+T before P -> ABEDKMFGNOTZYXJIUPLSRHCWQV
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOLZYXJIUPTSRHCWQV
+Comparing L and S
+S before L -> ABEDKMFGNOSZYXJIUPTLRHCWQV
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNORZYXJIUPTLSHCWQV
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGNOHZYXJIUPTLSRCWQV
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFGNOCZYXJIUPTLSRHWQV
+Comparing C and W
+W before C -> ABEDKMFGNOWZYXJIUPTLSRHCQV
+Comparing W and Q
+Can swap W and Q: yes
+Q before W -> ABEDKMFGNOQZYXJIUPTLSRHCWV
+Comparing Q and V
+V before Q -> ABEDKMFGNOVZYXJIUPTLSRHCWQ
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVYZXJIUPTLSRHCWQ
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVXZYJIUPTLSRHCWQ
+Comparing X and J
+J before X -> ABEDKMFGNOVJZYXIUPTLSRHCWQ
+Comparing J and I
+I before J -> ABEDKMFGNOVIZYXJUPTLSRHCWQ
+Comparing I and U
+U before I -> ABEDKMFGNOVUZYXJIPTLSRHCWQ
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVPZYXJIUTLSRHCWQ
+Comparing P and T
+T before P -> ABEDKMFGNOVTZYXJIUPLSRHCWQ
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVLZYXJIUPTSRHCWQ
+Comparing L and S
+S before L -> ABEDKMFGNOVSZYXJIUPTLRHCWQ
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNOVRZYXJIUPTLSHCWQ
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGNOVHZYXJIUPTLSRCWQ
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFGNOVCZYXJIUPTLSRHWQ
+Comparing C and W
+W before C -> ABEDKMFGNOVWZYXJIUPTLSRHCQ
+Comparing W and Q
+Can swap W and Q: yes
+Q before W -> ABEDKMFGNOVQZYXJIUPTLSRHCW
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQYZXJIUPTLSRHCW
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQXZYJIUPTLSRHCW
+Comparing X and J
+J before X -> ABEDKMFGNOVQJZYXIUPTLSRHCW
+Comparing J and I
+I before J -> ABEDKMFGNOVQIZYXJUPTLSRHCW
+Comparing I and U
+U before I -> ABEDKMFGNOVQUZYXJIPTLSRHCW
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQPZYXJIUTLSRHCW
+Comparing P and T
+T before P -> ABEDKMFGNOVQTZYXJIUPLSRHCW
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVQLZYXJIUPTSRHCW
+Comparing L and S
+S before L -> ABEDKMFGNOVQSZYXJIUPTLRHCW
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNOVQRZYXJIUPTLSHCW
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGNOVQHZYXJIUPTLSRCW
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFGNOVQCZYXJIUPTLSRHW
+Comparing C and W
+W before C -> ABEDKMFGNOVQWZYXJIUPTLSRHC
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWYZXJIUPTLSRHC
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWXZYJIUPTLSRHC
+Comparing X and J
+J before X -> ABEDKMFGNOVQWJZYXIUPTLSRHC
+Comparing J and I
+I before J -> ABEDKMFGNOVQWIZYXJUPTLSRHC
+Comparing I and U
+U before I -> ABEDKMFGNOVQWUZYXJIPTLSRHC
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWPZYXJIUTLSRHC
+Comparing P and T
+T before P -> ABEDKMFGNOVQWTZYXJIUPLSRHC
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVQWLZYXJIUPTSRHC
+Comparing L and S
+S before L -> ABEDKMFGNOVQWSZYXJIUPTLRHC
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNOVQWRZYXJIUPTLSHC
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGNOVQWHZYXJIUPTLSRC
+Comparing H and C
+Can swap H and C: yes
+C before H -> ABEDKMFGNOVQWCZYXJIUPTLSRH
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCYZXJIUPTLSRH
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCXZYJIUPTLSRH
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCJZYXIUPTLSRH
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCIZYXJUPTLSRH
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCUZYXJIPTLSRH
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWCPZYXJIUTLSRH
+Comparing P and T
+T before P -> ABEDKMFGNOVQWCTZYXJIUPLSRH
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVQWCLZYXJIUPTSRH
+Comparing L and S
+S before L -> ABEDKMFGNOVQWCSZYXJIUPTLRH
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNOVQWCRZYXJIUPTLSH
+Comparing R and H
+Can swap R and H: yes
+H before R -> ABEDKMFGNOVQWCHZYXJIUPTLSR
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHYZXJIUPTLSR
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHXZYJIUPTLSR
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHJZYXIUPTLSR
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHIZYXJUPTLSR
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCHUZYXJIPTLSR
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWCHPZYXJIUTLSR
+Comparing P and T
+T before P -> ABEDKMFGNOVQWCHTZYXJIUPLSR
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVQWCHLZYXJIUPTSR
+Comparing L and S
+S before L -> ABEDKMFGNOVQWCHSZYXJIUPTLR
+Comparing S and R
+Can swap S and R: yes
+R before S -> ABEDKMFGNOVQWCHRZYXJIUPTLS
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRYZXJIUPTLS
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRXZYJIUPTLS
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRJZYXIUPTLS
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHRIZYXJUPTLS
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCHRUZYXJIPTLS
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWCHRPZYXJIUTLS
+Comparing P and T
+T before P -> ABEDKMFGNOVQWCHRTZYXJIUPLS
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVQWCHRLZYXJIUPTS
+Comparing L and S
+S before L -> ABEDKMFGNOVQWCHRSZYXJIUPTL
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSYZXJIUPTL
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSXZYJIUPTL
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRSJZYXIUPTL
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHRSIZYXJUPTL
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCHRSUZYXJIPTL
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWCHRSPZYXJIUTL
+Comparing P and T
+T before P -> ABEDKMFGNOVQWCHRSTZYXJIUPL
+Comparing T and L
+Can swap T and L: yes
+L before T -> ABEDKMFGNOVQWCHRSLZYXJIUPT
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLYZXJIUPT
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSLXZYJIUPT
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRSLJZYXIUPT
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHRSLIZYXJUPT
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCHRSLUZYXJIPT
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWCHRSLPZYXJIUT
+Comparing P and T
+T before P -> ABEDKMFGNOVQWCHRSLTZYXJIUP
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLTYZXJIUP
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSLTXZYJIUP
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRSLTJZYXIUP
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHRSLTIZYXJUP
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCHRSLTUZYXJIP
+Comparing U and P
+Can swap U and P: yes
+P before U -> ABEDKMFGNOVQWCHRSLTPZYXJIU
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLTPYZXJIU
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSLTPXZYJIU
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRSLTPJZYXIU
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHRSLTPIZYXJU
+Comparing I and U
+U before I -> ABEDKMFGNOVQWCHRSLTPUZYXJI
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLTPUYZXJI
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSLTPUXZYJI
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRSLTPUJZYXI
+Comparing J and I
+I before J -> ABEDKMFGNOVQWCHRSLTPUIZYXJ
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLTPUIYZXJ
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSLTPUIXZYJ
+Comparing X and J
+J before X -> ABEDKMFGNOVQWCHRSLTPUIJZYX
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLTPUIJYZX
+Comparing Y and X
+Can swap Y and X: yes
+X before Y -> ABEDKMFGNOVQWCHRSLTPUIJXZY
+Comparing Z and Y
+Can swap Z and Y: yes
+Y before Z -> ABEDKMFGNOVQWCHRSLTPUIJXYZ
+String sorted ABEDKMFGNOVQWCHRSLTPUIJXYZ
+Part 1: ...: 
+Part 2: ...: 
